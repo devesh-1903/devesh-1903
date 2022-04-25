@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devesh Dubey</h1>
 <h3 align="center">A technical enthusiast and love to solve DSA problems</h3>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=swap_192002&theme=dark)
-
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=swap_192002&theme=dark)](https://leetcode.com/swap_192002)
 
 - 🔭 I’m currently working on [Pizza: e-commerce website](https://pimzza.herokuapp.com/)
 
